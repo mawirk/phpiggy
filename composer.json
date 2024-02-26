@@ -1,0 +1,17 @@
+{
+  "name": "marian/phpiggy",
+  "type": "project",
+  "authors": [
+    {
+      "name": "mawirk",
+      "email": "mar1annimportantthings@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "src/Framework",
+      "App\\": "src/App"
+    }
+  }
+}
